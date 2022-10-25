@@ -1,2 +1,2 @@
 # bootstrap_game
-arianysant.github.io.
+https://arianysant.github.io./bootstrap_game/
